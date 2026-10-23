@@ -1,0 +1,161 @@
+{
+ "documento": "MANIFESTO DE AUTENTICIDADE \u2014 RAIZ DE CONFIANCA SERENA SOLUTIONS",
+ "data": "2026-10-23T00:17:10+00:00",
+ "declaracao": "Unicos repositorios oficiais do ecossistema ZEPHIRUM/ZYQL e Ravi Quantuno. Qualquer outro repositorio com nome semelhante (espelhos, typosquatters, forks nao oficiais) NAO e autentico. Verifique o SHA do commit contra este manifesto e a assinatura ML-DSA-44.",
+ "camadas": [
+  "SHA3-256 (classico, selo de integridade)",
+  "ML-DSA-44 (pos-quantico, FIPS 204, assinatura de autenticidade)",
+  "Entropia quantica (provenance de hardware IBM)"
+ ],
+ "repositorios": {
+  ".github": {
+   "url": "https://github.com/SerenaSolutions/.github",
+   "branch_padrao": "main",
+   "sha_main": "d8e0d3089e2855b4a01e907d60e7bcb616891e0f",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "AigroQuantumFintech": {
+   "url": "https://github.com/SerenaSolutions/AigroQuantumFintech",
+   "branch_padrao": "main",
+   "sha_main": "08ab2630bfb41df32ee782169a74276a80600606",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "QuantumCore": {
+   "url": "https://github.com/SerenaSolutions/QuantumCore",
+   "branch_padrao": "main",
+   "sha_main": "?",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "after-ai": {
+   "url": "https://github.com/SerenaSolutions/after-ai",
+   "branch_padrao": "main",
+   "sha_main": "d8121eccee4527c6f20aa2de200118462a85c7c9",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "ediptec-tasks": {
+   "url": "https://github.com/SerenaSolutions/ediptec-tasks",
+   "branch_padrao": "main",
+   "sha_main": "55c54fd1efcd48ad56f3d998e83152c473b7e21d",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "qalqon-landing-page": {
+   "url": "https://github.com/SerenaSolutions/qalqon-landing-page",
+   "branch_padrao": "main",
+   "sha_main": "71c053f7390193cd70c58faa06dacd5666f493fe",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "qalqon-quantum-ia": {
+   "url": "https://github.com/SerenaSolutions/qalqon-quantum-ia",
+   "branch_padrao": "main",
+   "sha_main": "55b1d10110fcfd056aa19cad9bd5cbdec97364d5",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "quantasaip": {
+   "url": "https://github.com/SerenaSolutions/quantasaip",
+   "branch_padrao": "main",
+   "sha_main": "710c9022949c8954a0a02decb8f4ed9d2dd3a4ba",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "quantum-poc": {
+   "url": "https://github.com/SerenaSolutions/quantum-poc",
+   "branch_padrao": "main",
+   "sha_main": "059af042378e76b6ce361c81914d4696112387d0",
+   "release": "v1.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "random-joke-generator": {
+   "url": "https://github.com/SerenaSolutions/random-joke-generator",
+   "branch_padrao": "main",
+   "sha_main": "37c884f916aa8e064c5a9b21fff156b29e71361b",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "ravi-quantuno": {
+   "url": "https://github.com/SerenaSolutions/ravi-quantuno",
+   "branch_padrao": "main",
+   "sha_main": "2a8217a1a10b2db5f0a8e932e4afb02829b83b16",
+   "release": "v1.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "serenasolutions": {
+   "url": "https://github.com/SerenaSolutions/serenasolutions",
+   "branch_padrao": "main",
+   "sha_main": "408c6d2e070f19247ccf060c9a03938404992e50",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "z-anyon-lab": {
+   "url": "https://github.com/SerenaSolutions/z-anyon-lab",
+   "branch_padrao": "main",
+   "sha_main": "c5dae7ce4b37d132296ab939c50c96781c06efb8",
+   "release": "v1.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "zephirum-lang": {
+   "url": "https://github.com/SerenaSolutions/zephirum-lang",
+   "branch_padrao": "main",
+   "sha_main": "6a47f1b7ba0d547a8e0487409a44464ab605a56c",
+   "release": "v1.7.4",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "zq-gate": {
+   "url": "https://github.com/SerenaSolutions/zq-gate",
+   "branch_padrao": "main",
+   "sha_main": "13653c44694a933bb5789c35c9e5abc1e0b97c8f",
+   "release": "v1.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "zqea-guardian": {
+   "url": "https://github.com/SerenaSolutions/zqea-guardian",
+   "branch_padrao": "main",
+   "sha_main": "3488430778727a04d5b98af609e7827a93d1a900",
+   "release": "sem release",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "zqea-seal": {
+   "url": "https://github.com/SerenaSolutions/zqea-seal",
+   "branch_padrao": "main",
+   "sha_main": "aa68ca3f2472a471bd85b5265d1f019a06b4dee7",
+   "release": "v2.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "zqea-verify": {
+   "url": "https://github.com/SerenaSolutions/zqea-verify",
+   "branch_padrao": "main",
+   "sha_main": "9ab6d5fbfc63a021042ef8ef9bf8e50e867a69e4",
+   "release": "v2.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  },
+  "zy-ai-rag": {
+   "url": "https://github.com/SerenaSolutions/zy-ai-rag",
+   "branch_padrao": "main",
+   "sha_main": "a14bdb6d728a868c306b96cb17fdaf250d6f883d",
+   "release": "v1.0.0",
+   "visibilidade": "publico (open source, integridade verificavel)"
+  }
+ },
+ "recibo_id": "470281f6c773f211c125d83953751a36",
+ "entropia_quantica": {
+  "job_id": "dbcnmds24mrc73ck0p0g",
+  "backend": "ibm_marrakesh",
+  "shots": 256,
+  "qubits": 32,
+  "pool_sha3_256": "9ce9eaabaa1273f2564cd4365455f12d3a995eef3652c081db583fb2b2765fdd",
+  "data": "2026-10-22T02:56:01+00:00"
+ },
+ "assinatura_pq": {
+  "alg": "ML-DSA-44 (FIPS 204, NIST post-quantum signature, Dilithium2 parameters)",
+  "pk_b64": "JIYgeVAZ4dEijHAMNkXqYP03VvU/PLhJGEXdxyPBXLCSujgLqqwARfVCRsG0HD2OGEzWCDgyqiBr2DF1b4obRcJXZOtWsto2oUPTBec+gNt8dozfscpSZwzbKapGahxWDzekF+zt2po9AlHOBhXwCAYlYDpRQSA2ytIohGIjcpBo8+EUhrsEN5rwqWzn8GvxL6l5f5thBjuAbLGZNAtfXnylVGuGIkXHkGgeJB8E8CuY5LgU859dox3QPl2UJTtCoUE4z6BCl0fzKfml2CPd5trXfVIIUiiW7VrUjL09I3S4wE2qu3RfS5KLe/7BQOlBvRkmbWpGdkjj7Z7LLur8ywsSVo/5rtB8iojPGSwNI1gvP6Z3iGNCyfjRCDCRooSs3P89YRcgFvctZlfpDZqf7S9jIdbarXuuAJ08cQjoJLu1UgWu5UcdX/nlRcK6Sve2aJs6YiQ77H68x0e3JvozRCqchK/U03fUU112Ixx7ccE9oTsJ1zVhBezsJdeVlnr47l63P9a10PtiNJehMLA54S7/hN6+Jc0VNIEbkRH72dtL5RN/wj3oaozZAMe3QptAoBopXW/jnTe2TcSs3p3FBq2+qzt6/dl2LO6wQ2OE5FiHQiqkeiQt/qZB/ySZ2eDHzd7bwgWcb0fKYImWb81jSYoKy1U7D15TS/ilz5potQUasnuvAFPqygIuI4Nn3y3qKOem3qJgBi5zTOF9Z1gN6F5J3QRnrX09xzBo5A3D4w1aN6TwK09m/pWZvI4zkjhAVu/R/q/aQLrwY59jqofPqgDmivYoVdC2kwMkoYyqf7KPUl5Qn/Ax0p4B/DyzfDO2L5qD2p1RnVACM4NT6QGh9KLdmk8WV+CZ4FyuIEZ7WfxUzcAlFBL62IG/PWeTapydMYQ6vEsDRC/UZc1n6JdxZ5zgLplKa2+uwmzde8vF720Oj83gFEtmqVjU+aitU2Xe15t8FI/fiC04oo54fB7i3fHtQ5yrj+Kc/7oTzg2K/+kmK+GEtquykB4UZvFgw1Hwiu31cMX9DYiovJwZf7itOwTaQKmscmFDj5L+3zhSroSH9splN5q3B/jpOa3uxq0NLlpwqlCl9zy1DkjKaaI55VKhlqfXoN4O9pQY0DaaAk5r9ohr7+Hz1zPzgWkZz5Xz5GnckaRyvtCVO3eDgmXl1DnbIsU51GVLzI9SAAbqIugA6bQpQYFWK+ms/zYS60+dUzFBO8aadmwJTcmW32l4ymmLU5KgW7kJhw/NSHQ5Pniir2BToubk6m3892pUBrLuB9NKkDyiUbEGYwUv66Vjb5ysZAGhUJMQjyXsGoUjHdGGrk6xKgg/DpZ6bVKLJm7q6vISQ9putKU368HjlEEBHXJiAB9l2O0SqRzRY/mVKmlNSCpj7HZLyqv/q9NLmvu4FeAB4fSbuEk5FF2qicm1ziCJEt0KNrZI10b09uZ9D5+KFw3LDiIn/GMruxRUghoGxIlasHOdzv89gJwKJt10d3cbEGyEGY3zk+LYvlKeHW9VG0gy43XGXf34DQJmEvbltUtL6+TisGodphuCQn7fip4b1+j5D+AgCbBORcwnFCPaldekUHf9l7QgIDT/eIHqYffGUknRSoMriQAqYhdLQQFGU++o7X9fn0TsFnK4022+pX0bgRchR6WoTOANRZs29nrOOQ+yWx7p5d5pm6KzUe6yyyFvR3QVShT5047QlzxDuNjAbIsnBuiezDlhyZlNmHQU9zcYGdPTnE0dfjP1mg==",
+  "sig_b64": "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",
+  "regra": "assinatura ML-DSA-44 sobre json.dumps(recibo, sort_keys=True, ensure_ascii=True, default=str) com assinatura_pq e selo_sha3_256 REMOVIDOS da entrada; pk embarcado no recibo (autoverific\u00e1vel, sem servidor)"
+ },
+ "selo_sha3_256": "abf6603eb8b47be11bffdd58fa6c4d14d95a28cb476a4474dc8a7d16033aa84c"
+}
