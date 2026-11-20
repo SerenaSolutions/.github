@@ -60,3 +60,12 @@ Três repositórios sustentam o produto hoje. O resto é peça, conteúdo ou his
 
 `AigroQuantumFintech`, `ediptec-tasks`, `antigravity-webtop`, `ravi-quantuno`,
 `quantasaip`, `qalqon-quantum-ia`.
+
+---
+
+## Governança
+
+O agente arquiteto deste ecossistema opera sob documento versionado: https://github.com/SerenaSolutions/zephirum-lang/blob/main/docs/GOVERNANCA-AGENTE-ARQUITETO.md
+
+Evidência antes de afirmação, sete níveis de maturidade, protocolo de atuação e proibição
+explícita de inventar arquivo, commit, teste ou resultado.
