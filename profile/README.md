@@ -27,3 +27,36 @@ Toda alegação carrega recibo: selo SHA3-256, assinatura ML-DSA-44 e cadeia anc
 | Adoção institucional | não demonstrada |
 
 Documentação, limites declarados e código em [zephirum-lang](https://github.com/SerenaSolutions/zephirum-lang).
+
+---
+
+## Por onde começar
+
+Três repositórios sustentam o produto hoje. O resto é peça, conteúdo ou histórico.
+
+| Ordem | Repositório | Papel |
+|---|---|---|
+| 1 | `zephirum-lang` | linguagem, runtime, especificação e recibos |
+| 2 | `isthmus` | ponte publicada, interoperabilidade e `sig_alg` |
+| 3 | `quanso-os` | sistema operacional de pesquisa, privado |
+
+### Peças que pertencem a um monorepo
+
+`zq-ir`, `zq-gate`, `zqea-seal`, `zqea-verify`, `zqea-guardian`, `decision-receipt`,
+`zyql-audit-ui`, `zeph-bridges`, `pennylane-zephirum`. Cada uma é um pacote, não um projeto.
+
+### Conteúdo e sites
+
+`the-zyql-zephirum-code` (livro), `serenasolutions.github.io` e `imutq-site` (sites),
+`qalqon-landing-page` (landing).
+
+### Pesquisa e histórico
+
+`quantum-poc`, `z-anyon-lab`, `zyql-quantum-vulnerability`, `qsr-crypto-gate`,
+`serena-quantum-safe-readiness`, `zy-ai-rag`, `ecosystem`, `after-ai`, `QuantumCore`,
+`serenasolutions`, `zephirum` (duplicata de `zephirum-lang`).
+
+### Outros negócios
+
+`AigroQuantumFintech`, `ediptec-tasks`, `antigravity-webtop`, `ravi-quantuno`,
+`quantasaip`, `qalqon-quantum-ia`.
